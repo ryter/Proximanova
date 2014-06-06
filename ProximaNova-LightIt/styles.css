@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'ProximaNova-LightIt';
+	src: url('ProximaNova-LightIt.eot?') format('eot'), 
+	     url('ProximaNova-LightIt.otf')  format('opentype'),
+	     url('ProximaNova-LightIt.woff') format('woff'), 
+	     url('ProximaNova-LightIt.ttf')  format('truetype'),
+	     url('ProximaNova-LightIt.svg#ProximaNova-LightIt') format('svg');
+}

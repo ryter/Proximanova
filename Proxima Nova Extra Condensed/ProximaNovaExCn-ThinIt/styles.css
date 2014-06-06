@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'ProximaNovaExCn-ThinIt';
+	src: url('ProximaNovaExCn-ThinIt.eot?') format('eot'), 
+	     url('ProximaNovaExCn-ThinIt.otf')  format('opentype'),
+	     url('ProximaNovaExCn-ThinIt.woff') format('woff'), 
+	     url('ProximaNovaExCn-ThinIt.ttf')  format('truetype'),
+	     url('ProximaNovaExCn-ThinIt.svg#ProximaNovaExCn-ThinIt') format('svg');
+}
